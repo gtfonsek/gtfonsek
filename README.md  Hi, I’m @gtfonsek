@@ -1,0 +1,41 @@
+<!---
+gtfonsek/gtfonsek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agradecimiento a mis padres</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('file:///C:/Users/nueve/OneDrive/Imágenes/Importaciones%20de%20la%20cámara/2023-10-27/DSCN1108.JPG');
+            background-size: cover;
+            background-position: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+        h1, p {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>¡Gracias, mamá y papá!</h1>
+        <p>
+            Quiero agradecerles por siempre estar cerca de mí y apoyarme en cada paso de mi vida. 
+            Estoy empezando a estudiar programación y este pequeño sitio web es un ejemplo de lo que estoy aprendiendo. 
+            ¡Los amo mucho! Feliz día, mamita...
+        </p>
+    </div>
+</body>
+</html>
